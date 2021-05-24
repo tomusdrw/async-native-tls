@@ -1,6 +1,6 @@
 [package]
-name = "async-native-tls"
-version = "0.3.3"
+name = "web3-async-native-tls"
+version = "0.4.0"
 authors = ["dignifiedquire <me@dignifiedquire.com>"]
 edition = "2018"
 license = "MIT/Apache-2.0"
@@ -8,7 +8,7 @@ repository = "https://github.com/async-email/async-native-tls"
 homepage = "https://docs.rs/crate/async-native-tls/"
 documentation = "https://docs.rs/crate/async-native-tls/"
 description = """
-Native TLS using futures
+Temporary package released to crates.io. Fork of async-native-tls. Please don't use.
 """
 readme = "README.md"
 categories = ["asynchronous", "cryptography", "network-programming"]
